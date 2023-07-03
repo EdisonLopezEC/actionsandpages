@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React importante
+          Cambios realizados por Mariela 
         </a>
       </header>
     </div>
