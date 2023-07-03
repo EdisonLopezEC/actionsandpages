@@ -17,6 +17,7 @@ function App() {
         >
           Learn React importante
           Cambios realizados por Mariela 
+          agregar el contenido
         </a>
       </header>
     </div>
