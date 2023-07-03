@@ -19,6 +19,7 @@ function App() {
           Cambios realizados por Mariela 
           agregar el contenido
           esta es la pagina principal
+          contenido
         </a>
       </header>
     </div>
