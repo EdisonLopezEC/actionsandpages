@@ -18,6 +18,7 @@ function App() {
           Learn React importante
           Cambios realizados por Mariela 
           agregar el contenido
+          esta es la pagina principal
         </a>
       </header>
     </div>
