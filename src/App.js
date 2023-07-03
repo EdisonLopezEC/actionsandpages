@@ -20,6 +20,8 @@ function App() {
           agregar el contenido
           esta es la pagina principal
           contenido
+          este es el nuevo contenido
+          cambios
         </a>
       </header>
     </div>
