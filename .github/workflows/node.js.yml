@@ -30,4 +30,4 @@ jobs:
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           git remote set-url origin https://github.com/${{ github.repository }}.git
-          npm run deploy -- -u "EdisonLopezEC <edisonlopezec@gmail.com>"
+          npm run deploy -- -u "edisonlopezec <edisonlopezec@gmail.com>"
