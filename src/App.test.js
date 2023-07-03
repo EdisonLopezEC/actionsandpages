@@ -9,6 +9,6 @@ test('renders learn react link', () => {
 
 test('renders learn react link', () => {
   render(<App />);
-  const linkElement = screen.getByText(/esta es la pagina pricipal/i);
+  const linkElement = screen.getByText(/esta es la pagina principal/i);
   expect(linkElement).toBeInTheDocument();
 });
